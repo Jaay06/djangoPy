@@ -1,0 +1,2 @@
+# djangoPy
+Empty Django project
